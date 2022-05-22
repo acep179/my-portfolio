@@ -338,7 +338,7 @@ nav p{
 .success-alert, .error-alert{
     width: 296px;
     margin: auto;
-    margin-top: calc(-1.5*var(--mar-1));
+    margin-top: var(--mar-1);
     margin-bottom: calc(2*var(--mar-1));
     padding: .5em 1em;
     border-radius: 10px;
